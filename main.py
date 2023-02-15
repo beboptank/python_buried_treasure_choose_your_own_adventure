@@ -25,6 +25,7 @@ print("""  ____________________________________________________________________
  \_/__________________________________________________________________/""")
 
 print("Welcome to Buried Treasure, a text-based choose your own adventure game.\n")
+print("ASCII art from www.ascii.co.uk/art")
 answer1 = input("You awaken on a deserted island with a piece of parchment in your hand. Open it? Y or N ")
 
 if answer1 == 'Y' or answer1 == 'y':
